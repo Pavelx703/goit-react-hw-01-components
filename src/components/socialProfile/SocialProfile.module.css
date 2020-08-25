@@ -1,7 +1,7 @@
 .profile {
   font-family: "Roboto", sans-serif;
   text-align: center;
-  background-color: rgb(247, 240, 240);
+  background-color: rgb(255, 255, 255);
   box-shadow: 0px 1px 3px 0px rgba(169, 180, 192, 0.75);
   width: 300px;
   margin: 0 auto;
@@ -13,10 +13,10 @@
   font-weight: bold;
 }
 .tag {
-  color: #737e8b;
+  color: #b6bec7;
 }
 .location {
-  color: #737e8b;
+  color: #b6bec7;
 }
 .avatar {
   border-radius: 100px;
