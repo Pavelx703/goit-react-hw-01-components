@@ -1,0 +1,26 @@
+.transaction_history {
+  margin: 0 auto;
+  margin-top: 10px;
+  width: 600px;
+  text-align: center;
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+th {
+  background-color: #58dbec;
+  color: white;
+}
+tr {
+  height: 40px;
+  color: #727d87;
+}
+tr:nth-child(even) {
+  background-color: #90989c;
+  color: white;
+}
+
+.label_type {
+  text-align: center;
+  width: 200px;
+  text-transform: capitalize;
+}
